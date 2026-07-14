@@ -1,0 +1,26 @@
+# Frontend dependencies
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+
+# Environment variables
+.env
+*.env
+
+# Java / Spring Boot
+backend/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

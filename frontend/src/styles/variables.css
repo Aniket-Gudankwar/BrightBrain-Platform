@@ -1,0 +1,21 @@
+:root{
+
+    --primary:#2563EB;
+    --secondary:#F59E0B;
+
+    --white:#FFFFFF;
+    --black:#111827;
+
+    --background:#F8FAFC;
+
+    --heading:#0F172A;
+
+    --paragraph:#475569;
+
+    --border:#E2E8F0;
+
+    --transition:0.3s ease;
+
+    --radius:10px;
+
+}
