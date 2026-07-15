@@ -11,13 +11,9 @@ html{
 }
 
 body{
-
-    ffont-family:'Inter',sans-serif;
-
-    background:var(--background);
-
-    color:var(--heading);
-
+    font-family: 'Inter', sans-serif;
+    background: var(--background);
+    color: var(--heading);
 }
 
 a{
@@ -34,9 +30,6 @@ img{
 }
 
 button{
-
     cursor:pointer;
-
     border:none;
-
 }
