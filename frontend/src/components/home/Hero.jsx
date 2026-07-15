@@ -37,8 +37,8 @@ function Hero() {
       <div className="hero-right">
 
         <img
-          src="/src/assets/hero.png"
-          alt="Hero"
+          src="/src/assets/hero-tech-workspace.png"
+          alt="Academic, research and technology solutions"
         />
 
       </div>
